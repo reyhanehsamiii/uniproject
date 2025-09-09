@@ -1,0 +1,16 @@
+[
+    {
+        "user_id": "11ff33a7-7210-4f7b-a5fe-a2264c938b62",
+        "username": "admin",
+        "password": "RHane1403",
+        "name": "مدیر سیستم",
+        "role": "admin"
+    },
+    {
+        "user_id": "352d8722-ec20-4f1a-8bb8-45ecd2372013",
+        "username": "poone",
+        "password": "pooneh",
+        "name": "poone ghasemi",
+        "role": "student"
+    }
+]
